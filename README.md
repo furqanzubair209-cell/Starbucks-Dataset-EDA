@@ -185,7 +185,7 @@ The notebook contains:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/Starbucks-Dataset-EDA.git
+git clone https://github.com/furqanzubair209-cell/Starbucks-Dataset-EDA.git
 ```
 
 **2. Navigate to the project directory**
